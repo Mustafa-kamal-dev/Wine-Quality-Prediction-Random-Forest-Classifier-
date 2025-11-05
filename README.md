@@ -60,5 +60,4 @@ Pandas, NumPy
 Matplotlib, Seaborn
 Scikit-Learn
 Google colabs
-- Distribution Plots
-- Pairwise Feature Comparisons
+
